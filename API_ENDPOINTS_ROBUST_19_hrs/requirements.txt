@@ -44,3 +44,4 @@ uvicorn
 watchfiles
 websockets
 pydantic-settings
+gunicorn
