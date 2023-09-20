@@ -43,11 +43,11 @@ requirements.txt file inside Source Folder(API_ENDPOINTS_User_Post)
 ### Delete
 - /posts/{id}: Delete Post
 
->Checkout Docs and redocs for more info on query parameters and structure.
+>Checkout Docs and redocs for more info on query parameters, JSON structure and authentication.
 
 
 ## Database Model
-
+>Checkout Alembic documentation: https://alembic.sqlalchemy.org/en/latest/
 ```
 
 class Post(Base):
